@@ -10,6 +10,7 @@ Isha Gupta
 - [Nik-hz](https://github.com/nik-hz)
 - [Dragan Manaskov](https://github.com/draganmanaskov)
 - rjaquez
+- [Amima Shifa](https://github.com/AmimaShifa)
 - [Jiug](https://github.com/jiug)
 - [Mumul](https://github.com/mumul21)
 - [Firdavs](https://github.com/uzproblue)
